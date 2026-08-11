@@ -101,12 +101,6 @@ pip install -r requirements.txt
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to create a pull request.
 
-## Author
-
-K.HARSHA VARDHAN
-
-harshharsha360@gmail.com 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](#LICENSE) file for details.
